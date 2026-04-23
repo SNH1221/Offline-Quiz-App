@@ -93,7 +93,7 @@ com.skyrist.offlinequizapp
 
 ---
 
-## 🙌 Author
+## 🙌 Developer
 
 **Sanstubh Katiyar**
 
