@@ -59,7 +59,7 @@ This project follows **MVVM (Model-View-ViewModel)** architecture:
 
 ## 🎥 Demo Video
 
-👉 *(Add your video link here)*
+👉 *(video link)*
 
 ---
 
