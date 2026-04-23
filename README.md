@@ -80,7 +80,6 @@ com.skyrist.offlinequizapp
 │
 └── MainActivity.kt
 
-
 ---
 
 ## 🔮 Future Improvements
