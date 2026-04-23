@@ -64,7 +64,7 @@ This project follows **MVVM (Model-View-ViewModel)** architecture:
 ---
 
 ## 📂 Project Structure
-'''com.skyrist.offlinequizapp
+```com.skyrist.offlinequizapp
 │
 ├── data
 │ ├── Question.kt
@@ -78,7 +78,7 @@ This project follows **MVVM (Model-View-ViewModel)** architecture:
 │ └── viewmodel
 │ └── QuizViewModel.kt
 │
-└── MainActivity.kt'''
+└── MainActivity.kt```
 
 ---
 
