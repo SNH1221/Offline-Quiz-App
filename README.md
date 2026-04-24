@@ -56,13 +56,6 @@ This project follows **MVVM (Model-View-ViewModel)** architecture:
 - Result Dialog  
 
 ---
-
-## 🎥 Demo Video
-
-👉 *(video link)*
-
----
-
 ```
 ## 📂 Project Structure
 com.skyrist.offlinequizapp
